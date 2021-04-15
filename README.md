@@ -1,10 +1,11 @@
 # IntegerToSwedishWords
 A converter to convert positive integers into swedish words.
 
-## Input: Int
-## Output: String
+### Example
+#### Input (integer): 11331
+#### Output (string): "elvatusen trehundratrettioett" 
 
-### Why did i make this?
+### Why did i make this function?
 I got into a discussion with my friend that this could be useful to have for different reasons. After some research i found out that i couldn't find a function like this in Swedish so i took on the challenge myself.
 
 ### Disclaimer
