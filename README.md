@@ -6,7 +6,7 @@ A converter to convert positive integers into swedish words.
 #### Output (string): "elvatusen trehundratrettioett" 
 
 ### Why did i make this function?
-I got into a discussion with my friend that this could be useful to have for different reasons. After some research i found out that i couldn't find a function like this in Swedish so i took on the challenge myself.
+I got into a discussion with my friend that this could be useful to have for a couple of reasons. After some reasearching we didn't find an existing function like this with a support for the Swedish language. So I took on the challenge myself.
 
 ### Disclaimer
 This is the first update of the function and I havent refactorized it into a cleaner code yet. Let me know if you would like an updated version.
