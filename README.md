@@ -1,5 +1,5 @@
 # IntegerToSwedishWords
-A converter to convert positive integers into swedish words.
+A javascript function that converts positive integers into swedish words.
 
 ### Example
 #### Input (integer): 11331
